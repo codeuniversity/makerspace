@@ -7,6 +7,8 @@
 # Maker kitchen access protocol
 The maker kitchen is an open space for all code students to enjoy and experiment with. Gaining experience in all kinds of material and microelectronic processes and digital fabrication techniques. Due to the combination of expensive, delicate tools, complex processes, and potentially hazardous or harmful materials, there needs to be a protocol or process to ensure the CODE members' safety and the long and reliable running of the available tools and equipment within the maker kitchen.
 
+First please read the basic [Code of Conduct](code-of-conduct.md). All Members are expected to, and undertake to, abide by these basics at all times.
+
 There are a number of levels of access or use that escalate in care required to prevent damage or injury;
 
 * [Basic Access](basic-access.md)
