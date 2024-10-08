@@ -16,6 +16,8 @@ This is suitable for basic fabrication with cutters, tape, glue etc. for physica
 ## Maker Space Induction document 
 (Members must also read the [Code of Conduct](code-of-conduct.md) before signing agreement)
 
+Members will also need to fulfill the other safety orientation processes for power tools, 3D Printer, Laser cutter etc.
+
 ### Overview 
 All users who enter and work in the Maker Space must successfully complete this basic safety  induction. 
 You are required to read through the induction and acknowledge that you have read and  understood the content. Only when the induction has been successfully completed will maker space  access be granted. 
