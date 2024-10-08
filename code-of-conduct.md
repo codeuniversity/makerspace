@@ -8,9 +8,9 @@
 
 ## Basic access policy for maker space
 
-Adapted from the policies from Fat Cat Fab Lab and others
+Adapted with thanks from the policies from Fat Cat Fab Lab and others
 
-* PLEASE SUBMIT SUGGESTIONS TO HELP US MAKE OUR DOCUMENTATION BETTER! fork this and imporve it on github.
+* PLEASE SUBMIT SUGGESTIONS TO HELP US MAKE OUR DOCUMENTATION BETTER! fork this and improve it on github. [Makerspace github repo](https://github.com/codeuniversity/makerspace/)
 
 We encourage all Members to help clarify and evolve our operating rules and policies and digital systems. Many situations arise for which we may not have written rules. The Board may act to enforce rules, make judgement calls, or whatever else is needed to maintain a safe, functional space, and further the collective efforts of the lab members at large.						
 Our Community						
@@ -64,7 +64,6 @@ The goal of the maker space is to make plenty of room for working on active proj
 
 * All members must not leave their belongings inside the space when not present at the lab.
 * Materials that do not fit in a locker may be stored only in a designated Community Storage area, neatly and labeled with your name and project (TBC)
-* Members must email info@fatcatfablab.org for permission to store any projects that don’t fit in a bin at the lab for more than two weeks. The Board reserves the right to require permission for large projects being stored at the lab less than two weeks as well.
 * Laptops and belongings cannot be left unattended longer than 2 hours -- no 'camping' or 'reserving' tables.	
 * The lab CANNOT be used as a storage facility. Inactive projects, nonfunctioning tools, or personal items may removed or recycled without warning. 									
 * Materials perceived as not part of an active project with visible progress may be considered abandoned. Abandoned items will be moved to scrap, discarded, or made available for anyone to use, potentially without warning. It is the sole responsibility of members to communicate, monitor, and manage the items they bring into the space, including coordinating removal if requested.
@@ -126,24 +125,18 @@ During a temporary suspension the Member will:
 
 ### Orientation and Responsibilities
 Welcome to CODE MakerSpace! We’re glad you’re with us!
-Please read this page carefully and complete the checkbox items to finish onboarding at FCFL.
-It contains useful information to help get you started in the lab and community!
+Please read this page carefully and complete the checkbox items to finish onboarding at MakerSpace. It contains useful information to help get you started in the lab and community!
 
 ### Digital Channels
-* Slack Workspace
-* Github and git hub pages
+* Slack Workspace  [Makerspace Slack channel](https://codeuniversity.slack.com/archives/C011CN2SMFY)
+* Github and git hub pages (these pages)  [Makerspace github repo](https://github.com/codeuniversity/makerspace/)
 
-
-###Expectations for you as a member
-Some quick wins include:
-What responsibilities do I have as a makerspace Member?
-Taking care of the Space Looks like:
-
+### Expectations for you as a member
+What responsibilities do I have as a makerspace Member? Taking care of the Space Looks like:
 * Cleaning up after you're done working (putting away tools, vacuuming, etc). This is a minimum requirement!
 * Clean up after yourself when you’re done working on your project for the day. 
 * Leave your area better than you found it!
 * Don’t be shy! Ask other members in the space while you’re there. This is the best way to spark interesting convo. If they don’t know the answer, often other members can direct you to the ‘expert’! Find the relevant channel on Slack and ask your question - typically other members will answer pretty quickly! 
-
 
 ### How do I ask for help with my project
 Asking for help on your project : If you’re unsure of how to get started helping or have questions, reach out in Slack,  and someone will help out
