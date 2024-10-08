@@ -1,4 +1,4 @@
-[README.md](Main) | [access.md](Access) | [equipment.md](Equipment List) | 
+[Main](README.md) | [Access](access.md) | [Equipment List](equipment.md) | 
 ------------------------
 
 # Maker kitchen access protocol
