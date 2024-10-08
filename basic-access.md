@@ -18,7 +18,7 @@ This is suitable for basic fabrication with cutters, tape, glue etc. for physica
 
 Members will also need to fulfill the other safety orientation processes for power tools, 3D Printer, Laser cutter etc.
 
-### Overview 
+**Overview**
 All users who enter and work in the Maker Space must successfully complete this basic safety  induction. 
 You are required to read through the induction and acknowledge that you have read and  understood the content. Only when the induction has been successfully completed will maker space  access be granted. 
 ### Compliance 
@@ -26,7 +26,7 @@ You are required to read through the induction and acknowledge that you have rea
 * If users are found to be letting others in who have not completed the induction their access  to the maker space may be revoked. 
 * If users are found to violate the maker Space rules or compromise maker Space and user safety, their  access to the maker Space may be revoked. 
 
-### Duty of Care 
+### Duty of Care
 Upon entering the maker Space all students, staff and visitors are bound by a Duty of Care. This  means that each user must take responsibility for the health and safety of him/herself and  of other users who may be affected by his/her actions while in the maker Space. Staff and visitors  must:  
 * not place themselves or other persons at risk of injury. 
 * observe all instructions and safety guidelines issued by CODE staff or other relevant staff. 
@@ -39,8 +39,7 @@ Upon entering the maker Space all students, staff and visitors are bound by a Du
 ### Workshop Rules 
 All areas in the maker Space share the basic rules listed below which must be adhered to, as well  as specific rules for individual machines.  
 
-Ask 
-
+**Ask**
 
 If there is something you don’t know or understand ask one of the staff or other users Instructions must be observed 
 All instructions, written or verbal, issued by staff must be observed 
@@ -54,7 +53,7 @@ Personal protective equipment (PPE) and other specialized safety equipment is to
 #### Clothing 
 Appropriate clothing to the area and task is to be worn at all times - for instance, jewelry  or loose fitting clothing is not to be worn in proximity to operational machinery, and beards  and long hair are to be rigorously contained when operating machinery or power tools. 
 #### No food and drinks 
-Food and drink is not to be consumed in the maker Space. 
+Food and drink is **not to be consumed** in the maker Space. Want lunch? Go get it and eat it somewhere suitable. No Exceptions. No one gets poisoned in MakerSpace.
 
 #### Materials 
 Please notify and check with staff if you are bringing your own materials to work on in the maker Space before using.
