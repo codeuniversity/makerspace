@@ -1,4 +1,5 @@
-[README.md](Main) | [access.md](Access) | [Equipment list](equipment.md) | 
+[README.md](Main) | [access.md](Access) | [equipment.md](Equipment List) | 
+------------------------
 
 # Maker kitchen access protocol
 The maker kitchen is an open space for all code students to enjoy and experiment with. Gaining experience in all kinds of material and microelectronic processes and digital fabrication techniques. Due to the combination of expensive, delicate tools, complex processes, and potentially hazardous or harmful materials, there needs to be a protocol or process to ensure the CODE members' safety and the long and reliable running of the available tools and equipment within the maker kitchen.
