@@ -14,7 +14,8 @@ This is suitable for basic fabrication with cutters, tape, glue etc. for physica
 
 
 ## Maker Space Induction document 
-(Users must read  before signing agreement) 
+(Members must also read the [Dode of Donduct](code-of-conduct.md) before signing agreement)
+
 ### Overview 
 All users who enter and work in the Maker Space must successfully complete this basic safety  induction. 
 You are required to read through the induction and acknowledge that you have read and  understood the content. Only when the induction has been successfully completed will maker space  access be granted. 
