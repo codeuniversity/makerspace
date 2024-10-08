@@ -11,8 +11,10 @@
 # Powered hand tools
 
 # 3D printing
+Prusa Mk3 3D print 
 
 # Laser Cutting
+XTool S1 40w laster cutter [read more](https://support.xtool.com/product/24)
 
 # Milling machine
 
