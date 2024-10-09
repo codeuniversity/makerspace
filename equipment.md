@@ -16,6 +16,8 @@
 # 3D printing
 Prusa Mk3 3D print 
 
+# Vinyl Cutter
+
 # Laser Cutting
 XTool S1 40w laster cutter [read more](https://support.xtool.com/product/24)
 
