@@ -145,3 +145,5 @@ Asking for help on your project : If you’re unsure of how to get started helpi
 Please be mindful of electricity use in the Lab and turn off equipment before leaving. Turn off lights in spaces that are not being used and ensure that all non-security lights are off if you are the last one to leave the building. In the summer months, turn off the AC if you’re the last person in the Lab, and make sure the windows are closed when the AC is on. Please take care and switch off tools like soldering irons, and 3D printers when not in use. 
 
 Be respectful of all private and shared property in the Lab. Please read our Code of Conduct to familiarise yourself with our policies.
+
+ ![CODE logo](Word_AppliedSciences_Black-sml.png)
