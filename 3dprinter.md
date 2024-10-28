@@ -27,6 +27,9 @@ These hints/step are not to be used instead of thinking. Think about the problem
  Please watch the introduction video here 
  [https://youtu.be/JqH41K2vq0g?feature=shared](https://youtu.be/JqH41K2vq0g?feature=shared)
 
+
+![overview of Prusa 3d Printer](prusa3dprinter.png
+) 
  ## Trouble Shooting
 
 ### General advice.
