@@ -19,7 +19,7 @@ You can see the range of current user support materials and guides from xTool he
 
 [![Please watch the S1 laser cutter intro video here ](https://img.youtube.com/vi/4L2EEkaRFBY/maxresdefault.jpg)](https://www.youtube.com/watch?v=4L2EEkaRFBY)
 
-and you can download the introduction pdf help guide here [xTool S1 intro pdf](English - xTool S1 Quick Start Guide.pdf)
+and you can download the introduction pdf help guide here [xTool S1 intro pdf](English-xTool-S1-Quick-Start-Guide.pdf)
 
  ![CODE logo](Word_AppliedSciences_Black-sml.png)
 
