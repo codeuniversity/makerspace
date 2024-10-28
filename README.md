@@ -1,4 +1,4 @@
-[Main](README.md) | [Access](access.md) | [Equipment List](equipment.md) | ![CODE logo](Word_AppliedSciences_Black-sml.png)
+[Main](README.md) | [Access](access.md) | [Equipment List](equipment.md) |
 
 ------------------------
 
@@ -35,3 +35,5 @@ The makerspace has a variety of equipment suitable for making
 
 The CODE makerspace has been generously supported by funds from our partners at [Deutsche Telekom](https://www.telekom.com/)
 
+
+ ![CODE logo](Word_AppliedSciences_Black-sml.png)
