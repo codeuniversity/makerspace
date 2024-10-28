@@ -230,6 +230,8 @@ Why do these incidents, injuries or near misses need to be reported? We need you
 ### Penalties : Revocation 
 Failure to abide with any of these rules and conditions will be immediately met with revocation of maker Space use, requiring users to repeat the induction training before their privileges are restored. In extreme cases (such as: blatant misuse of facilities or equipment, or endangering another's safety) access will be permanently revoked.
 
+ ![CODE logo](Word_AppliedSciences_Black-sml.png)
+
 
 # NOW YOU HAVE READ THE [CODE OF CONDUCT](code-of-conduct.md) AND BASIC ACCESS SAFETY INFORMATION
 [Please sign the form here to get access](https://docs.google.com/forms/d/e/1FAIpQLSebs6pXsI3r4-Fivzaa0rLsUx4m3Bg2twAN4ZcrFHvk1sZU7A/viewform?usp=sf_link)
