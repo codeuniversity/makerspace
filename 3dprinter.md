@@ -93,3 +93,5 @@ There are 1000’s of free and pay tools out there for creating your models, sli
 5. Viewing GCODE files (a good check before you print): code.ws (web based)
 
 6. There are many Prusa Slicer introduction videos - here is a reasonable one [https://www.youtube.com/watch?v=_kIqMPNQNSw](https://www.youtube.com/watch?v=_kIqMPNQNSw)
+
+ ![CODE logo](Word_AppliedSciences_Black-sml.png)
