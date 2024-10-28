@@ -60,3 +60,5 @@ Students must not operate machines alone; a buddy must always be present for saf
 
 
 Failure to follow the basic protocols in safe, fair and clean use of the maker kitchen will mean access privileges must necessarily be revoked for the safe access of other CODE members.
+
+ ![CODE logo](Word_AppliedSciences_Black-sml.png)
