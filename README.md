@@ -1,7 +1,10 @@
 [Main](README.md) | [Access](access.md) | [Equipment List](equipment.md) |
 
+------------------------
+
 
 ![CODE logo](Word_AppliedSciences_Black.png)
+
 
 ------------------------
 [Makerspace website](https://codeuniversity.github.io/makerspace/) |
