@@ -30,7 +30,7 @@ These hints/step are not to be used instead of thinking. Think about the problem
 
 ![overview of Prusa 3d Printer](prusa3dprinter.png
 ) 
- ## Trouble Shooting
+## Trouble Shooting
 
 ### General advice.
 1. The first layer is ALL important. Get it right first. See steps listed above. This will prevent a lot of frustration.
@@ -82,22 +82,23 @@ Print suddenly shifts in X or Y and keeps printing.
 Heated bed struggles to keep up with hotter bed temperatures.
 1. There is a potentiometer on the power supply. It comes set around 11.5V. People have reported success with increasing that to 12V to 12.5V. There is some controversy to this, read the forum for details.
 
-### Software
+## Software
 
-There are 1000’s of free and pay tools out there for creating your models, slicing them, and so forth. This is really not the forum for that detailed a discussion, but I want to point you to some common ones so you can research them yourself.
+There are 1000’s of free and pay tools out there for creating your models, slicing them, and so forth. This is really not the forum for that detailed a discussion, but here are some common ones so you can research them yourself.
 
-#### Slicers 
+### Slicers 
 * Convert .stl files (models) into .gcode commands for your printer. These can make a HUGE difference in your print quality. Most have 100s of settings and thus a learning curve, but the knowledge of the control is worth it. 
 * Common ones are: [Slic3r (use Prusa one)](https://www.prusa3d.com/page/prusaslicer_424/), KISS, Cura, Simplify3D (S3D) [Guide to slic3r]( http://www.instructables.com/id/Guide-to-Slic3r/)
 * There are many Prusa Slicer introduction videos - here is a reasonable one [https://www.youtube.com/watch?v=_kIqMPNQNSw](https://www.youtube.com/watch?v=_kIqMPNQNSw)
 
-#### CAD
+### CAD
  * [OpenSCAD](https://openscad.org/) is opensource, powerful but complex - good if you have a programming background (even just a bit). [TinkerCAD](https://www.tinkercad.com/) is a super easy introduction to making 3d Models for printing. There is also software such as [SolidWorks](https://www.solidworks.com/) and also [SketchUp](https://www.sketchup.com/en)
 * Autodesk Fusion360. Industrial level 3D modelling tool with free ascess for educational use [Fusion360 download](https://www.autodesk.com/products/fusion-360/choose-usage)
   * this intro to Fusion360 from formlabs is a good quick overview [https://formlabs.com/eu/blog/fusion-360-tutorial-basics-and-tips-for-3d-printing/](https://formlabs.com/eu/blog/fusion-360-tutorial-basics-and-tips-for-3d-printing/)
-  * 
-#### Sculpting type modeling
+   
+### Sculpting type modeling
 * [Blender](https://www.blender.org/) and similar.
+
 ### Model and mesh Manipulation: 
 * [Meshmixer](https://meshmixer.com/)
 * [meshlab](https://www.meshlab.net)
