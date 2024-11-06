@@ -124,10 +124,6 @@ During a temporary suspension the Member will:
 * Empty the space of all possessions including projects, materials, and tools.
 * Membership will be reinstated only when the Member is deemed to be in 'good standing'	
 
-### Orientation and Responsibilities
-Welcome to CODE MakerSpace! We’re glad you’re with us!
-Please read this page carefully and complete the checkbox items to finish onboarding at MakerSpace. It contains useful information to help get you started in the lab and community!
-
 ### Digital Channels
 * Slack Workspace  [Makerspace Slack channel](https://codeuniversity.slack.com/archives/C011CN2SMFY)
 * Github and git hub pages (these pages)  [Makerspace github repo](https://github.com/codeuniversity/makerspace/)
