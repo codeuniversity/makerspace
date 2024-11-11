@@ -20,8 +20,7 @@ There are a number of levels of access or use that escalate in care required to 
 
 ## Basic Access: Basic access for physical prototyping using not powered tools. [Basic Access](basic-access.md)
 
-To gain basic access please approach your project consultant or course leader and request access be added to your CODE access card account. 
-You will need to read and agree to a basic outline of safety and fair / good use processes and then off you go 
+To gain basic access you will need to read and agree to a basic outline of safety and fair / good / safe use processes and then off you go.
 
 This is suitable for basic fabrication with cutters, tape, glue etc. for physical prototypes and includes soldering and basic microelectronics.
 
