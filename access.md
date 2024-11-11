@@ -48,15 +48,8 @@ Students must pass a practical proficiency test demonstrating their understandin
 * Personal Protective Equipment (PPE):
 All students must have and correctly wear appropriate PPE, including safety goggles, ear protection, and any additional lab-specific gear, before machine operation.
 
-* Instructor Authorization:
-After completing the training and proficiency test, students receive authorization, granting them permission to operate the drill-milling machine unsupervised.
-
-* Sign-in/Sign-out Procedure:
-Students must sign in and out of the lab every time they use the equipment, logging the machine used and the duration of use.
-
 * Buddy System:
 Students must not operate machines alone; a buddy must always be present for safety reasons.
-
 
 Failure to follow the basic protocols in safe, fair and clean use of the maker kitchen will mean access privileges must necessarily be revoked for the safe access of other CODE members.
 
