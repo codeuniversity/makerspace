@@ -234,4 +234,4 @@ Failure to abide with any of these rules and conditions will be immediately met 
 
 
 # NOW YOU HAVE READ THE [CODE OF CONDUCT](code-of-conduct.md) AND BASIC ACCESS SAFETY INFORMATION
-[Please sign the form here to get access](https://docs.google.com/forms/d/e/1FAIpQLSebs6pXsI3r4-Fivzaa0rLsUx4m3Bg2twAN4ZcrFHvk1sZU7A/viewform?usp=sf_link)
+[Please sign the form here to get access](https://codeuniversity.atlassian.net/servicedesk/customer/portal/7/group/35/create/418)
