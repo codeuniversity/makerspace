@@ -22,7 +22,7 @@ The maker kitchen is an open space for all code students to enjoy and experiment
 * First please read the basic [Code of Conduct](code-of-conduct.md). All Members are expected to, and undertake to, abide by these basics at all times. 
 * Then [Find out more about access to the space here](access.md)
 
-## Shortt term project storage
+## Short term project storage
 An interim solution for project storage has been worked out with the kind support of the campus team. 
 This will be under review to see what the needs and capacities are and how it might be improved over time
 
