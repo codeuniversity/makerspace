@@ -1,7 +1,5 @@
 [Main](README.md) | [Access](access.md) | [Equipment List](equipment.md) |
-
 ------------------------
-
 
 ![CODE logo](Word_AppliedSciences_Black.png)
 
