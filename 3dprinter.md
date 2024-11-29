@@ -5,9 +5,9 @@
 
 ------------------------
 
-# Prusa MK1 3D printer
+# Prusa i3 3D printer
 
-The MakerSpace currently has a Prusa Mk1 3D printer.
+The MakerSpace currently has a Prusa i3 3D printer.
 
 You can find material on the Prusa Website [https://help.prusa3d.com/tag/mk1](https://help.prusa3d.com/tag/mk1)
 
