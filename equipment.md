@@ -8,13 +8,20 @@
 # CODE Makerspace Equipment List
 
 # Hand tools
+* small socket sets
+* spanner sets
+* cutters, pliers 
+* screwdrivers and microscrewdrivers, inlcluding torx bits
+* ~~small hands saws~~
+* ~~small coling saws~~
 
 # Powered hand tools
 * Drilling Press + Vice
-* Bosch DIY Hammer Drill with Additional Handle, Depth Stop, Case (550 W, Max. Drilling diameter: Wood: 25 mm, Concrete: 10 mm, Steel: 8 mm)
+* ~~Bosch DIY Hammer Drill with Additional Handle, Depth Stop, Case (550 W, Max. Drilling diameter: Wood: 25 mm, Concrete: 10 mm, Steel: 8 mm)~~
+* ~~Bosch cordless hand drill and electric screwdriver~~
 
 # 3D printing
-Prusa Mk3 3D print 
+Prusa i3 3D printer
 
 # Vinyl Cutter
 
@@ -42,7 +49,7 @@ XTool S1 40w laster cutter [read more](https://support.xtool.com/product/24)
 # Accessories 
 * NEWACALOX helping hands light
 * Goobay 51200 Desoldering Pump Light Metal Housing with Teflon Tip and High Suction Performance
-* Mannesmann VDE Screwdriver and Pliers Set (14 Pieces)
+* ~~Mannesmann VDE Screwdriver and Pliers Set (14 Pieces)~~
 * Lintex Whiteboard
 * ESD Protection Matt
 * Solder Fume Extaction Hood
