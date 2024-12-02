@@ -5,18 +5,18 @@
 
 ------------------------
 
-# Prusa i3 3D printer
+# Prusa i3 MK3 3D printer
 
-The MakerSpace currently has a Prusa i3 3D printer.
+The MakerSpace currently has a Prusa i3 MK3 3D printer.
 
-You can find material on the Prusa Website [https://help.prusa3d.com/tag/mk1](https://help.prusa3d.com/tag/mk1)
+You can find material on the Prusa Website [https://help.prusa3d.com/tag/mk3](https://help.prusa3d.com/tag/mk3)
 
 Please download and read the Prusa introduction manual for safe and reliable printer operation 
- [https://www.prusa3d.com/downloads/manual/prusa3d_manual_175_en.pdf](https://www.prusa3d.com/downloads/manual/prusa3d_manual_175_en.pdf)
+ [https://help.prusa3d.com/downloads/mk3/handbook](https://help.prusa3d.com/downloads/mk3/handbook)
 
 *adapted from Prusa forum induction*
 
-The PRUSA i3 MK2(S) is a very nice machine, and you will find that it is a reliable machine with great print quality. There are thousands of users who use this machine as a workhorse, and you can too.
+The PRUSA i3 MK3 is a very nice machine, and you will find that it is a reliable machine with great print quality. There are thousands of users who use this machine as a workhorse, and you can too.
 
 That said, there is a learning curve and people make mistakes. If you are expecting this to be as easy as an inkjet or laser printer, it is not, but it can become that routine once you get over the learning curve.
 
@@ -59,7 +59,7 @@ Extruder stops extruding filament. (Works for a while then stops)
 9. Set screw on the extruder thermistor is loose, creating a poor temperature reading of the heat block (see 6).
 10. Poor quality on the filament diameter. Measure it with a caliper over a short span. Try a different spool.
 
-Bad surface quality on the final prints. (The MK2(S) can do very nice surfaces).
+Bad surface quality on the final prints.
 **Common causes:**
 1. Temperature swings. Do the two PID calibrations in the menu. (See above). (Some disagree.)
 2. Loose belts (see above).

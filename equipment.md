@@ -21,7 +21,7 @@
 * ~~Bosch cordless hand drill and electric screwdriver~~
 
 # 3D printing
-Prusa i3 3D printer
+Prusa i3 MK3 3D printer
 
 # Vinyl Cutter
 
