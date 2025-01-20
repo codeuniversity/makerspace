@@ -18,6 +18,7 @@ There are a number of levels of access or use that escalate in care required to 
 - [Powered tool access](powertools.md)
 - [Laser cutter access](lasercutter.md)
 - [Milling Machine access](milling-machine.md)
+- [Sewing Machine access](sewing-machine.md)
 
 ## Basic Access: Basic access for physical prototyping using not powered tools. [Basic Access](basic-access.md)
 
