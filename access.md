@@ -19,6 +19,7 @@ There are a number of levels of access or use that escalate in care required to 
 - [Laser cutter access](lasercutter.md)
 - [Milling Machine access](milling-machine.md)
 - [Sewing Machine access](sewing-machine.md)
+- [Vinyl Cutter access](vinyl_cutter.md)
 
 ## Basic Access: Basic access for physical prototyping using not powered tools. [Basic Access](basic-access.md)
 
@@ -63,6 +64,14 @@ Failure to follow the basic protocols in safe, fair and clean use of the maker k
 To gain access to the SINGER Heavy Duty 6335M Denim sewing machine, you must first complete the basic access requirements. This includes reading the safety guidelines and understanding the proper use of the sewing machine. You will also need to attend a brief orientation session that covers machine operation, maintenance, and troubleshooting.
 
 Please refer to the [Sewing Machine Documentation](sewing-machine.md) for detailed instructions and safety information.
+
+## Vinyl Cutter Access [Vinyl Cutter Access](vinyl_cutter.md)
+
+Access to the VEVOR KH-720A vinyl cutter requires completion of the basic access requirements. This machine is ideal for creating custom designs on vinyl, paper, and other materials, making it a favorite for crafting and professional projects alike. Understanding the software used for design and cutting is crucial, as it greatly influences the quality of the output.
+
+Safety is paramount; ensure you are familiar with the machine's operation and maintenance procedures. Attend a hands-on session to learn about the machine's capabilities and limitations, and how to troubleshoot common issues effectively.
+
+For comprehensive guidance, please refer to the [Vinyl Cutter Documentation](vinyl_cutter.md).
 
 <br><br>
 
