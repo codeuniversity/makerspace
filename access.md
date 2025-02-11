@@ -18,7 +18,7 @@ There are a number of levels of access or use that escalate in care required to 
 - [Laser cutter access](lasercutter.md)
 - [Sewing Machine guide](sewing-machine.md)
 - [3D print guide](3dprinter.md)
-- 
+  
 ## Basic Access: Basic access for physical prototyping using not powered tools. [Basic Access](basic-access.md)
 
 To gain basic access you will need to read and agree to a basic outline of safety and fair / good / safe use processes and then off you go.
