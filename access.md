@@ -16,9 +16,12 @@ There are a number of levels of access or use that escalate in care required to 
 - [Basic Access](basic-access.md)
 - [Powered tool access](powertools.md)
 - [Laser cutter access](lasercutter.md)
+
+
 - [Sewing Machine guide](sewing-machine.md)
+- [Vinyl Cutter guide](vinyl_cutter.md)
 - [3D print guide](3dprinter.md)
-  
+
 ## Basic Access: Basic access for physical prototyping using not powered tools. [Basic Access](basic-access.md)
 
 To gain basic access you will need to read and agree to a basic outline of safety and fair / good / safe use processes and then off you go.
@@ -38,6 +41,12 @@ You will need to go through the basic access materials as above and then complet
 The XTool laser cutter at CODE contains a high power Class 4 laser - this is considered of the highest safety concern and is the most dangerous of laser devices. Due to the inbuilt safety features, protective case and safety interlocks the XTool cutter is classed in standard operation as a less dangerous Class 1 device. What this means is that providing the machine is operated according to correct safety procedures it is allowable for non-professional use.
 Anyone wishing to use the laser cutter must go through the basic maker kitchen access introduction and then complete a short online safety explanation and attend a short safety / access course.
 
+## Vinyl Cutter Access [Vinyl Cutter Access](vinyl_cutter.md)
 
+Access to the VEVOR KH-720A vinyl cutter requires completion of the basic access requirements. This machine is ideal for creating custom designs on vinyl, paper, and other materials, making it a favorite for crafting and professional projects alike. Understanding the software used for design and cutting is crucial, as it greatly influences the quality of the output.
+
+Safety is paramount; ensure you are familiar with the machine's operation and maintenance procedures. Attend a hands-on session to learn about the machine's capabilities and limitations, and how to troubleshoot common issues effectively.
+
+For comprehensive guidance, please refer to the [Vinyl Cutter Documentation](vinyl_cutter.md).
 
 ![CODE logo](Word_AppliedSciences_Black-sml.png)
