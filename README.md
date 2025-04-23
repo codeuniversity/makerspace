@@ -36,6 +36,8 @@ These storage spaces are temporary and last until the end of each semester where
 * If you need storage into next semester you can apply but this is only ion the basis that the project is still active. This is for active projects only and not long term storage or archiving.
 * Materials or projects not in allocated boxes will unfortunately be disposed of, so please don’t just leave things lying around. They will not be there when you come back in a few weeks.
 
+* NB. All project storage must be emptied over the summer break to allow stocktaking, cleaning, maintenance and repair.
+
 To request a storage box please [complete the request form.](https://docs.google.com/forms/d/e/1FAIpQLScnmsmTnjeEC9stPuUM_edkYa8wo4esuY3vf5sEsdVLaM0SOw/viewform?usp=sf_link)
 
 ## [Equipment](equipment.md)
