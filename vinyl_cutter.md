@@ -5,7 +5,12 @@
 
 ---
 
-# Vinyl Cutter
+# Vinyl Cutter — Vevor KH-720A
+
+- [User Guide](https://d2v0huudrf11kh.cloudfront.net/1619602834849.pdf)
+- Use [SignMaster](https://www.signmaster.software/) to control the cutter
+- On Macs, you'll need a Windows VM that **supports host USB connectivity**; [vmware Fusion](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) works well (free for personal use)
+- Use transfer foil to transer the vinyl from the roll to your medium
 
 ## Introduction
 
@@ -58,3 +63,4 @@ For more troubleshooting tips, visit the [VEVOR Troubleshooting Guide](https://w
 
 - [VEVOR Official Website](https://www.vevor.com)
 - [VEVOR Support](https://www.vevor.com/support)
+
