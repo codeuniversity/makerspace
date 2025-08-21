@@ -26,15 +26,17 @@
 Prusa i3 MK3 3D printer
 
 # Vinyl Cutter
+Vevor KH-720A [read more](vinyl_cutter.md)
 
 # Laser Cutting
 XTool S1 40w laster cutter [read more](lasercutter.md)
 
 # Milling machine
+Milling machine not operational
 
 # Materials and resources
 * ~~Isopropyl alcohol~~
-* 
+
 # Microelectronics
 * Ytian Test Clamp Wire Hook Test Clip for Logic Analyzer Wire Connector Pack of 10
 * AZDelivery Logic Analyzer with E-Book
@@ -57,7 +59,7 @@ XTool S1 40w laster cutter [read more](lasercutter.md)
 * Solder Fume Extaction Hood
 * Flush cutters
 * Tweezers
-* Hot glue Gun
+* 2 x Hot glue Gun
 * Wago Compact Connection Clamps
 * Screw Clamp Set, F Clamp, Malleable Cast Iron Span, Woodworking F Clamps, Bar Clamp, Steel Material, DIY Hand Tool Kit
 * Parallel Clamp Vice, 11.0 kg, 150 mm Jaws
