@@ -13,7 +13,7 @@
 * cutters, pliers 
 * screwdrivers and microscrewdrivers, inlcluding torx bits
 * japanese pull saws
-* ~~small hand sawsk~~
+* ~~small hand saws~~
 * ~~small coling saws~~
 
 # Powered hand tools
