@@ -12,11 +12,13 @@
 * spanner sets
 * cutters, pliers 
 * screwdrivers and microscrewdrivers, inlcluding torx bits
-* ~~small hands saws~~
+* japanese pull saws
+* ~~small hand sawsk~~
 * ~~small coling saws~~
 
 # Powered hand tools
 * Drilling Press + Vice
+* RYOBI 18V ONE+ Drill/Driver
 * ~~Bosch DIY Hammer Drill with Additional Handle, Depth Stop, Case (550 W, Max. Drilling diameter: Wood: 25 mm, Concrete: 10 mm, Steel: 8 mm)~~
 * ~~Bosch cordless hand drill and electric screwdriver~~
 
@@ -26,12 +28,12 @@ Prusa i3 MK3 3D printer
 # Vinyl Cutter
 
 # Laser Cutting
-XTool S1 40w laster cutter [read more](https://support.xtool.com/product/24)
+XTool S1 40w laster cutter [read more](lasercutter.md)
 
 # Milling machine
 
 # Materials and resources
-* Isopropyl alcohol
+* ~~Isopropyl alcohol~~
 * 
 # Microelectronics
 * Ytian Test Clamp Wire Hook Test Clip for Logic Analyzer Wire Connector Pack of 10
