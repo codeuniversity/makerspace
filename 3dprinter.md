@@ -7,7 +7,7 @@
 
 # Prusa i3 MK3 3D printer
 
-The MakerSpace currently has a Prusa i3 MK3 3D printer.
+The MakerSpace currently has a Prusa MK4S and a Prusa CORE One Printer
 
 You can find material on the Prusa Website [https://help.prusa3d.com/tag/mk3](https://help.prusa3d.com/tag/mk3)
 
@@ -16,7 +16,7 @@ Please download and read the Prusa introduction manual for safe and reliable pri
 
 *adapted from Prusa forum induction*
 
-The PRUSA i3 MK3 is a very nice machine, and you will find that it is a reliable machine with great print quality. There are thousands of users who use this machine as a workhorse, and you can too.
+The PRUSA MK4S and Core one are very nice machines, and you will find that it is a reliable machine with great print quality. There are thousands of users who use this machine as a workhorse, and you can too.
 
 That said, there is a learning curve and people make mistakes. If you are expecting this to be as easy as an inkjet or laser printer, it is not, but it can become that routine once you get over the learning curve.
 
