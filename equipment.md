@@ -7,21 +7,23 @@
 
 # CODE Makerspace Equipment List
 
+# NB. Tools are not to be removed from the MakerSpace - under any circumstances. #
+
 # Hand tools
 * small socket sets
 * spanner sets
 * cutters, pliers 
 * screwdrivers and microscrewdrivers, inlcluding torx bits
-* ~~small hands saws~~
-* ~~small coling saws~~
+* small hands saws
+* small coping saws
 
 # Powered hand tools
 * Drilling Press + Vice
-* ~~Bosch DIY Hammer Drill with Additional Handle, Depth Stop, Case (550 W, Max. Drilling diameter: Wood: 25 mm, Concrete: 10 mm, Steel: 8 mm)~~
-* ~~Bosch cordless hand drill and electric screwdriver~~
+* Ryobi cordless Hammer Drill with Additional tools, Depth Stop, Case etc
 
 # 3D printing
-Prusa i3 MK3 3D printer
+* Prusa MK4S 3D printer
+* Prusa CORE One 3D printer
 
 # Vinyl Cutter
 
