@@ -9,10 +9,13 @@
 
 The MakerSpace currently has a Prusa MK4S and a Prusa CORE One Printer
 
-You can find material on the Prusa Website [https://help.prusa3d.com/tag/mk3](https://help.prusa3d.com/tag/mk3)
+You can find material on the Prusa Website about the MK4 and the Core One [https://help.prusa3d.com/tag/mk4](https://help.prusa3d.com/tag/mk4)
+[https://help.prusa3d.com/product/core-one](https://help.prusa3d.com/product/core-one)
 
 Please download and read the Prusa introduction manual for safe and reliable printer operation 
- [https://help.prusa3d.com/downloads/mk3/handbook](https://help.prusa3d.com/downloads/mk3/handbook)
+ [https://help.prusa3d.com/downloads/mk3/handbook](https://help.prusa3d.com/downloads/mk4/handbook)
+
+ The MK4 and Core One printers are very similar sharing the same electronics, motors and printhead. Their speed and quality is comparable though the CORE One has a tempearature controlled printing chamber that allows heat control when printing more complex engineering filemanets such as ABS and Nylon.
 
 *adapted from Prusa forum induction*
 
