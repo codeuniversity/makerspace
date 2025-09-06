@@ -5,9 +5,13 @@
 
 ------------------------
 
-# Prusa i3 MK3 3D printer
+# Prusa MK4s and Core One 3D printers
 
-The MakerSpace currently has a Prusa MK4S and a Prusa CORE One Printer
+The MakerSpace currently has a Prusa MK4S and a Prusa CORE One Printer.
+
+These are fast, modern high quality, reliable machinesthat deliver great performance but are also easy to use and set up for beginners with a wealth of support and advice available.
+
+Join one of our Introduction to 3D printing workshops to get started if 3D printing is new for you. You can find these listed in the Learning Platform Events [https://app.code.berlin/events/eventSeries?](https://app.code.berlin/events/eventSeries?)
 
 You can find material on the Prusa Website about the MK4 and the Core One [https://help.prusa3d.com/tag/mk4](https://help.prusa3d.com/tag/mk4)
 [https://help.prusa3d.com/product/core-one](https://help.prusa3d.com/product/core-one)
