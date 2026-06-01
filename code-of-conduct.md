@@ -1,7 +1,7 @@
 [Main](README.md) | [Access](access.md) | [Equipment List](equipment.md) | 
 ------------------------
 [Makerspace website](https://codeuniversity.github.io/makerspace/) |
-[Makerspace github repo](https://github.com/codeuniversity/makerspace/) | [Makerspace Slack channel](https://codeuniversity.slack.com/archives/C011CN2SMFY)
+[Makerspace github repo](https://github.com/codeuniversity/makerspace/) | [Makerspace Slack channel](https://codeuniversity.slack.com/archives/C07RMQ361UZ)
 
 ------------------------
 
@@ -125,7 +125,7 @@ During a temporary suspension the Member will:
 * Membership will be reinstated only when the Member is deemed to be in 'good standing'	
 
 ### Digital Channels
-* Slack Workspace  [Makerspace Slack channel](https://codeuniversity.slack.com/archives/C011CN2SMFY)
+* Slack Workspace  [Makerspace Slack channel](https://codeuniversity.slack.com/archives/C07RMQ361UZ)
 * Github and git hub pages (these pages)  [Makerspace github repo](https://github.com/codeuniversity/makerspace/)
 
 ### Expectations for you as a member

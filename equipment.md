@@ -1,13 +1,13 @@
 [Main](README.md) | [Access](access.md) | [Equipment List](equipment.md) | 
 ------------------------
 [Makerspace website](https://codeuniversity.github.io/makerspace/) |
-[Makerspace github repo](https://github.com/codeuniversity/makerspace/) | [Makerspace Slack channel](https://codeuniversity.slack.com/archives/C011CN2SMFY)
+[Makerspace github repo](https://github.com/codeuniversity/makerspace/) | [Makerspace Slack channel](https://codeuniversity.slack.com/archives/C07RMQ361UZ)
 
 ------------------------
 
 # CODE Makerspace Equipment List
 
-# NB. Tools are not to be removed from the MakerSpace - under any circumstances. #
+# Tools are not to be removed from the MakerSpace - under any circumstances. #
 
 # Hand tools
 * small socket sets
@@ -23,18 +23,27 @@
 
 # 3D printing
 * Prusa MK4S 3D printer
-* Prusa CORE One 3D printer
+* Prusa CORE One + 3D printer
+* [More Info](3dprinter.md)
 
 # Vinyl Cutter
+* VEVOR Cutting Plotter KH720A
 
 # Laser Cutting
-XTool S1 40w laster cutter [read more](https://support.xtool.com/product/24)
+* XTool S1 40w laster cutter [read more](https://support.xtool.com/product/24)
+* [More Info](3dprinter.md)
+
+# Band Saw
+* SCHEPPACH Band Saw. Use PPE and have someone else present in the room when in use.
 
 # Milling machine
+* Currently not set up - Do not use!
 
 # Materials and resources
-* Isopropyl alcohol
-* 
+* Isopropyl alcohol wipes
+* Filament for small scale testing
+* Materials for small scale laser cutter testing
+
 # Microelectronics
 * Ytian Test Clamp Wire Hook Test Clip for Logic Analyzer Wire Connector Pack of 10
 * AZDelivery Logic Analyzer with E-Book

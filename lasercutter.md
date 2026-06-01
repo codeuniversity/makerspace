@@ -1,7 +1,7 @@
 ## [Main](README.md) | [Access](access.md) | [Equipment List](equipment.md) |
 
 [Makerspace website](https://codeuniversity.github.io/makerspace/) |
-[Makerspace github repo](https://github.com/codeuniversity/makerspace/) | [Makerspace Slack channel](https://codeuniversity.slack.com/archives/C011CN2SMFY)
+[Makerspace github repo](https://github.com/codeuniversity/makerspace/) | [Makerspace Slack channel](https://codeuniversity.slack.com/archives/C07RMQ361UZ)
 
 ---
 
@@ -72,7 +72,7 @@ To use the machine, you will need the following:
 
 ### Software and Setup
 
-The [xTool Creative Space software](https://www.xtool.com/pages/software) requires an account to be made to verify that you have received the additional xTool training, which consists of a single video running through some basic safety information. You can run through this training by clicking the badge under your account name, otherwise it will trigger if you attempt to use the machine for the first time.
+The [xTool Studio software](https://www.xtool.com/pages/software) (previously known as xTool Creative Space) requires an account to be made to verify that you have received the additional xTool training, which consists of a single video running through some basic safety information. You can run through this training by clicking the badge under your account name, otherwise it will trigger if you attempt to use the machine for the first time.
 
 Upon completing the xTool training, you will receive a digital certificate. You may download this if you wish.
 
@@ -137,7 +137,8 @@ Never use the machine without someone else present in the room. If they leave, p
 
 # 5. Booking
 
-Booking the machine is currently not possible. Please talk to Daniel Buzzo if you would like to use the machine before a booking system is implemented.
+Booking the machine is currently not possible so it is set up to run with people who have finished the training.
+Please be aware that others may want to use the machine at the same time as you - if this becomes an issue then a future booking system is on the table.
 
 Last updated 30/07/2025
 ![CODE logo](Word_AppliedSciences_Black-sml.png)
